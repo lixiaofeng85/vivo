@@ -1,0 +1,143 @@
+/*
+* @Author: lenovo
+* @Date:   2018-01-24 11:27:16
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-01-24 15:39:23
+*/
+/* 正面 */
+.waike{
+	width: 312px;
+	height: 666px;
+	background: #fcfcfc;
+	border-radius: 40px;
+	border: 8px solid #a6866f;
+}
+.shang{
+	width: 312px;
+	height: 71px;
+	background: #fcfcfc;
+	border-top-left-radius: 32px;
+	border-top-right-radius: 32px;
+}
+.shexiangtou{
+	width: 15px;
+	height: 15px;
+	background: #3c4144;
+	border-radius: 50%;
+	float: left;
+	margin-top: 27px;
+    margin-left: 91px;
+}
+.huatong{
+	width: 57px;
+	height: 6px;
+	background: #171717;
+	float: left;
+	margin-top: 31px;
+	margin-left: 15px;
+	border-radius: 4px;
+}
+.sandian{
+	width: 12px;
+	height: 7px;
+	background: #000000;
+	float: left;
+	margin-top: 30px;
+	margin-left: 17px;
+	border-radius: 4px;
+}
+.sidian{
+	width: 15px;
+	height: 15px;
+	background: #2b2d2c;
+	float: left;
+	margin-top: 27px;
+	margin-left: 10px;
+	border-radius: 50%;
+}
+.zhong{
+	width: 307px;
+	height: 535px;
+	background: #fcfcfc;
+	float: left;
+	margin-left: 3px;
+}
+.xia{
+	width: 312px;
+	height: 62px;
+	background: #fcfcfc;
+	margin-top: 535px;
+	border-bottom-left-radius: 32px;
+	border-bottom-right-radius: 32px;
+}
+.home{
+	width: 69px;
+	height: 31px;
+	background: #ffffff;
+	border-radius: 20px;
+	border: 2px solid #5d4b41;
+	float: left;
+	margin-top: 12px;
+	margin-left: 121px;
+}
+/* 背面 */
+.waike1{
+	width: 312px;
+	height: 666px;
+	background: #e3d6cd;
+	border-radius: 40px;
+	border: 8px solid #a6866f;
+	float: left;
+	margin-left: 400px;
+	margin-top: -674px;
+}
+.shang1{
+	width: 312px;
+	height: 72px;
+	background: #e3d6cd;
+	border-top-left-radius: 32px;
+	border-top-right-radius: 32px;
+}
+.shexiangtou1{
+	width: 53px;
+	height: 53px;
+    background: #767678;
+    border-radius: 50%;
+    float: left;
+    margin-top: 6px;
+    margin-left: 34px;
+}
+.shoudiantong{
+	width: 20px;
+	height: 20px;
+	background: #76726f;
+	border-radius: 50%;
+	float: left;
+	margin-top: 22px;
+	margin-left: 20px;
+}
+.baitiao{
+	width: 312px;
+	height: 9px;
+	background: #ddcfc4;
+	float: left;
+	margin-top: 5px;
+}
+.zhong1{
+	width: 100px;
+	height: 100px;
+/* 	background: red; */
+	margin: 0 auto;
+	margin-top: 146px;
+}
+.xiaozi{
+	text-align: center;
+	margin-top: 200px;
+}
+.baitiao1{
+	width: 312px;
+	height: 9px;
+	background: #ddcfc4;
+	float: left;
+	margin-top: 10px;
+}
